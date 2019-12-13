@@ -1,0 +1,7 @@
+Size,Rated Torque at 2000rpm (Nm),Limit for repeat peak torque (Nm),Limit for Average Input Speed (rpm),Moment of Inertia I (x10^-4 kgm^2),Moment of Inertia J (x10^-5 kgfms^2),Backdriving Torque (Nm),Starting Torque (Nm),Mass (kg),Spline Ring Outer Diameter D_o_s  (mm),Total Thickness t_total (mm),Spline Ring Thickness t_s  (mm),Spline Ring Mounting Diameter D_s (mm),Spline Ring number of Bolts n_s,Spline Ring Bolt Diameter  d_s (mm),Flexspline Outer Diameter D_o_f (mm),Flexspline Mounting Diameter D_f (mm),Flexspline number of Bolts n_f,Flexspline Bolt Diameter d_f (mm),Bearing Mounting Diameter D_b (mm),Bearing Number of Bolts n_b,Bearing Bolt Diameter d_b (mm)
+14,5.4,19,3500,0.021,0.021,3.1,0.023,0.06,50,11,4.5,44,6,3.4,38,17,9,3.4,17,4,3
+20,28,57,3500,0.09,0.092,5.2,0.043,0.13,70,14,6,62,12,3.4,54,24,9,3.5,26,4,3
+25,47,110,3500,0.282,0.288,9.6,0.079,0.24,85,17,7,75,12,3.4,65,30,9,5.5,30,4,3
+32,96,233,3500,1.09,1.11,21,0.18,0.51,110,22,9,100,12,4.5,90,41,11,6.6,40,4,4
+40,185,398,3500,2.85,2.91,35,0.29,0.92,135,27,11,120,12,5.5,105,48,10,9,50,4,5
+50,329,686,2500,8.61,8.78,67,0.56,1.9,170,33,13.5,150,12,6.6,130,62,11,11,60,4,6
