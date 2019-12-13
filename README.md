@@ -6,7 +6,7 @@ Parametrization Code for our [Senior Design Project](https://joshuaoreilly.com/p
 
 - SolidWorks 2019 or later
 - MATLAB R2018b or later
-- SolidWorks Parametrized Model (download from [CRABCAD](https://grabcad.com/library/o-crab-1))
+- SolidWorks Parametrized Model (download from [GrabCAD](https://grabcad.com/library/o-crab-1))
 
 ## File Structure
 
